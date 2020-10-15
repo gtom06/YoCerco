@@ -1,5 +1,0 @@
-1. As a user, I want to give a feedback to the worker, so that I can help community.
-2. As a freelance, I want to describe my skills and certificates, so that I can encourage a user
-to choose me.
-3. As a company I want to view services’ prices, so that I can adapt my price list to markets
-laws.

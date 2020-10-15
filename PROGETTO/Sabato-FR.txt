@@ -1,3 +1,0 @@
-1. The system shall provide the way for users to request support for a service that they need.
-2. The system shall provide the way for company to open a working position.
-3. The system shall provide the way to pay services by card/PayPal.
